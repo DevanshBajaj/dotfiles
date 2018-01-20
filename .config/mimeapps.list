@@ -1,0 +1,14 @@
+[Added Associations]
+application/x-debian-package=org.gnome.FileRoller.desktop;
+text/plain=gedit.desktop;
+application/x-shellscript=gedit.desktop;
+audio/mpeg=org.gnome.Totem.desktop;
+text/x-matlab=gedit.desktop;
+
+[Default Applications]
+text/html=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop
+x-scheme-handler/tg=telegramdesktop.desktop

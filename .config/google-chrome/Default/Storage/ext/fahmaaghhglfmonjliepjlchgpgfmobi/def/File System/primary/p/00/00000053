@@ -1,0 +1,40 @@
+
+
+-------session starts-------
+
+[1-20 11:51:11.161] INFO: MediaGallery: name=/home/devanshbajaj/Music, galleryId=1, isMediaDevice=false, deviceId=undefined
+[1-20 11:51:11.163] INFO: MediaGallery: name=/home/devanshbajaj/Pictures, galleryId=2, isMediaDevice=false, deviceId=undefined
+[1-20 11:51:11.163] INFO: MediaGallery: name=/home/devanshbajaj/Videos, galleryId=3, isMediaDevice=false, deviceId=undefined
+[1-20 11:51:11.164] INFO: Starts a quick scan on /home/devanshbajaj/Music
+[1-20 11:51:11.165] INFO: Iterating over dir / from source /home/devanshbajaj/Music
+[1-20 11:51:11.166] INFO: Starts a quick scan on /home/devanshbajaj/Pictures
+[1-20 11:51:11.167] INFO: Iterating over dir / from source /home/devanshbajaj/Pictures
+[1-20 11:51:11.168] INFO: Starts a quick scan on /home/devanshbajaj/Videos
+[1-20 11:51:11.169] INFO: Iterating over dir / from source /home/devanshbajaj/Videos
+[1-20 11:51:11.282] INFO: /home/devanshbajaj/Music contains music file
+[1-20 11:51:11.282] INFO: Iterating over dir /Screenshots from source /home/devanshbajaj/Pictures
+[1-20 11:51:11.305] INFO: /home/devanshbajaj/Videos does not contain music file
+[1-20 11:51:11.305] INFO: /home/devanshbajaj/Pictures does not contain music file
+[1-20 11:51:11.578] INFO: Got the drag_and_drop directory
+[1-20 11:51:11.935] INFO: lsUserAddedMusicSourceIds=null
+[1-20 11:51:11.935] INFO: lsLastTrackFailureLoggingTime=null
+[1-20 11:51:11.935] INFO: lsUserSelectedDownloadDirId=null
+[1-20 11:51:11.936] INFO: lsDefaultDownloadLocationId=null
+[1-20 11:51:11.936] INFO: Setting is already: lsAlwaysUseDefaultDownloadLocation = false
+[1-20 11:51:11.936] INFO: Setting is already: lsDefaultDownloadLocationId = null
+[1-20 11:51:15.484] INFO: lsAppActivated=false
+[1-20 11:51:15.484] INFO: lsDragAndDropActivated=false
+[1-20 11:51:15.484] INFO: Nacl version: 1.0.257.2084
+[1-20 11:51:15.486] INFO: lsAppActivated=false
+[1-20 12:13:3.13] INFO: Network went offline, canceling delay timer.
+[1-20 12:13:25.994] INFO: Network came online, restarting delay timer.
+[1-20 13:16:29.44] INFO: Network went offline, canceling delay timer.
+[1-20 13:37:28.723] INFO: Network came online, restarting delay timer.
+[1-20 13:37:38.472] INFO: Network went offline, canceling delay timer.
+[1-20 16:45:13.369] INFO: Network came online, restarting delay timer.
+[1-20 17:19:7.940] INFO: Starting periodic scan.
+[1-20 17:19:7.940] INFO: lsSyncMusicEnabled=null
+[1-20 17:19:7.941] INFO: lsAppActivated=false
+[1-20 17:51:11.155] INFO: Starting periodic scan.
+[1-20 17:51:11.156] INFO: lsSyncMusicEnabled=null
+[1-20 17:51:11.156] INFO: lsAppActivated=false

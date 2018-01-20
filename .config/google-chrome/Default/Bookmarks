@@ -1,0 +1,206 @@
+{
+   "checksum": "f2026fa57e576b31d2eccf8c0ffdec59",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13117210989929785",
+            "id": "21",
+            "meta_info": {
+               "last_visited_desktop": "13136873691800005"
+            },
+            "name": "Firmwares - SamMobile",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&sqi=2&ved=0ahUKEwi7qKWrpu7OAhWLQI8KHRdKBswQFggbMAA&url=http%3A%2F%2Fwww.sammobile.com%2Ffirmwares%2F&usg=AFQjCNHHinfO2QDo8xEorLmwai_Hg5JVhQ&sig2=7PP9n4AeTbj4Q60Vyo4_5A&bvm=bv.131669213,d.c2I"
+         } ],
+         "date_added": "13160759418797881",
+         "date_modified": "13117210989929785",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13087510739916651",
+            "id": "14",
+            "meta_info": {
+               "stars.flags": "5",
+               "stars.id": "ssc_160c57c5298e062a",
+               "stars.version": "sync.server.Chrome45"
+            },
+            "name": "Bing",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://go.microsoft.com/fwlink/p/?LinkId=255142"
+         }, {
+            "children": [ {
+               "date_added": "13087510753147627",
+               "id": "16",
+               "meta_info": {
+                  "stars.flags": "5",
+                  "stars.id": "ssc_4546aa78461e3b1d",
+                  "stars.version": "sync.server.Chrome45"
+               },
+               "name": "Agoda.com",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://agoda.com/hi-in?cid=1649895&tag=iefav"
+            }, {
+               "date_added": "13087510753147627",
+               "id": "17",
+               "meta_info": {
+                  "stars.flags": "5",
+                  "stars.id": "ssc_5002dbfe8a0767ad",
+                  "stars.version": "sync.server.Chrome45"
+               },
+               "name": "TripAdvisor",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://js.redirect.hp.com/jumpstation?bd=all&c=none&locale=all&pf=cnnb&s=TripAdvisor_iefav&tp=iefavs"
+            }, {
+               "date_added": "13087510753772634",
+               "id": "18",
+               "meta_info": {
+                  "stars.flags": "5",
+                  "stars.id": "ssc_ee249e6eb1808a3d",
+                  "stars.version": "sync.server.Chrome45"
+               },
+               "name": "WildTangent Games for HP",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://redirect.hp.com/svs/rdr?TYPE=4&tp=iefavs&s=myhpgames&pf=cnnb&locale=en_in&bd=all&c=154"
+            }, {
+               "date_added": "13149006479687485",
+               "id": "19",
+               "meta_info": {
+                  "last_visited_desktop": "13149006479687878"
+               },
+               "name": "iCREM",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://selfcare.gtel.in/customer/HomePage.aspx?Id=362616"
+            }, {
+               "date_added": "13158596061340984",
+               "id": "20",
+               "meta_info": {
+                  "last_visited_desktop": "13159447976849428"
+               },
+               "name": "Grand Theft Auto V Update v1.41-RELOADED | Ova Games",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.ovagames.com/grand-theft-auto-v-update-v1-41-reloaded.html/comment-page-1#comments"
+            } ],
+            "date_added": "13160759504203013",
+            "date_modified": "13160759504203014",
+            "id": "15",
+            "meta_info": {
+               "stars.id": "ssf_559320e4b5bfc17a",
+               "stars.version": "sync.server.Chrome45"
+            },
+            "name": "HP",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         } ],
+         "date_added": "13160759418797886",
+         "date_modified": "13087510739916651",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "1",
+      "synced": {
+         "children": [ {
+            "date_added": "13095670341344850",
+            "id": "5",
+            "meta_info": {
+               "last_visited": "13148568042422408",
+               "last_visited_desktop": "13148142512846500"
+            },
+            "name": "IPACCT | User information portal",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://10.199.199.199/0/up/"
+         }, {
+            "date_added": "13099242884790599",
+            "id": "6",
+            "name": "New tab",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "chrome-native://newtab/"
+         }, {
+            "date_added": "13118485797290007",
+            "id": "7",
+            "name": "Lenovo Vibe P1 - Форум Lenovo",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://lenovo-forums.ru/forum/526-lenovo-vibe-p1/"
+         }, {
+            "date_added": "13149007338881770",
+            "id": "8",
+            "meta_info": {
+               "last_visited": "13149007338885221"
+            },
+            "name": "Login",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.gtpl.net/login/login.php?msg=Invalid%20username"
+         }, {
+            "date_added": "13149007454346880",
+            "id": "9",
+            "meta_info": {
+               "last_visited": "13149007454349834"
+            },
+            "name": "iCREM",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://selfcare.gtel.in/customer/Default.aspx"
+         }, {
+            "date_added": "13150793475373092",
+            "id": "10",
+            "meta_info": {
+               "last_visited": "13150793475376329"
+            },
+            "name": "Featured Archives - Android Unfiltered",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.androidunfiltered.com/category/featured/"
+         }, {
+            "date_added": "13150793500635271",
+            "id": "11",
+            "meta_info": {
+               "last_visited": "13150793500641203"
+            },
+            "name": "Thecyberfibre",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://thecyberfibre.com/#"
+         }, {
+            "date_added": "13151597879141870",
+            "id": "12",
+            "meta_info": {
+               "last_visited": "13154263680502469"
+            },
+            "name": "Watch Movies Online FREE - FMovies",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://fmovies.se/"
+         }, {
+            "date_added": "13151598159073272",
+            "id": "13",
+            "meta_info": {
+               "last_visited": "13151598159077287"
+            },
+            "name": "Watch Movies Online FREE - FMovies",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://fmovies.se/fmovies"
+         } ],
+         "date_added": "13160759418797886",
+         "date_modified": "13151598159073272",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
